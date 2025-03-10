@@ -10,3 +10,5 @@ faiss-cpu
 langserve
 uvicorn
 fastapi
+langchain-chroma
+langchain_groq
